@@ -14,7 +14,7 @@ Welcome to my Introduction to robotics repository! This repository includes all 
 
 ## 📚 Homeworks
 
-### Homework 1
+### Homework 2
 
 - **Description**: To be announced
 
