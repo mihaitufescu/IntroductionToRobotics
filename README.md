@@ -12,7 +12,7 @@ Welcome to my Introduction to robotics repository! This repository includes all 
 
 - **Images and Media**: You can explore images, diagrams, and videos in the 'Media' section.
 
-## Homeworks
+## 📚 Homeworks
 
 ### Homework 1
 
