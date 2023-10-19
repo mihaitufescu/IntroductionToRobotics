@@ -11,3 +11,10 @@ Welcome to my Introduction to robotics repository! This repository includes all 
 - **Resources**: The 'Resources' directory includes helpful documents, links, and references related to the course.
 
 - **Images and Media**: You can explore images, diagrams, and videos in the 'Media' section.
+
+## Homeworks
+
+### Homework 1
+
+- **Description**: To be announced
+
