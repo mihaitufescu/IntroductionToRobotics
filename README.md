@@ -1,6 +1,6 @@
-# 🤖 Robotics Intro Course Repository
+# 🤖 IntroductionToRobotics Repository
 
-Welcome to my Robotics Intro Course repository! This repository includes all the projects and assignments I've worked on during this course.
+Welcome to my Introduction to robotics repository! This repository includes all the projects and assignments I've worked on during this course.
 
 ## 📁 Repository Contents
 
