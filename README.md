@@ -1,4 +1,4 @@
-# 🤖 IntroductionToRobotics Repository
+# 🤖 IntroductionToRobotics Repository - 2023-2024
 
 Welcome to my Introduction to robotics repository! This repository includes all the projects and assignments I've worked on during this course.
 
@@ -14,7 +14,7 @@ Welcome to my Introduction to robotics repository! This repository includes all 
 
 ## 📚 Homeworks
 
-### Homework 2
+### Homework 1
 
 - **Description**: To be announced
 
