@@ -17,9 +17,9 @@ Welcome to my Introduction to robotics repository! This repository includes all 
 ### Homework 1 - RGB Led controlled by potentiometers
 
 - **Task requirement**: This assignment focuses on controlling each channel (Red, Green, and Blue)of  an  RGB  LED  using  individual  potentiometers.
-- **Description**: This implementation involves three main steps: Find the limit of each potentiometer, adding the RGB LED to the circuit and finalizing the code. [Check here for in-depth information](/Homeworks/Homework%20#1%20-%20RGB%20led%20controlled%20by%20potentiometer/implementation.md)
+- **Description**: This implementation involves three main steps: Find the limit of each potentiometer, adding the RGB LED to the circuit and finalizing the code. [Check here for in-depth information](https://github.com/mihaitufescu/IntroductionToRobotics/blob/main/Homeworks/Homework%20%231%20-%20RGB%20led%20controlled%20by%20potentiometer/implementation.md)
 
-![Circuit implementation](/Homeworks/Homework%20#1%20-%20RGB%20led%20controlled%20by%20potentiometer/Screenshots%20and%20pictures/step2-circuit.jpg)
+![Circuit implementation](https://github.com/mihaitufescu/IntroductionToRobotics/blob/main/Homeworks/Homework%20%231%20-%20RGB%20led%20controlled%20by%20potentiometer/Screenshots%20and%20pictures/step2-circuit.jpg)
 
 Watch the demo:
 https://www.youtube.com/shorts/h66co6thW88
