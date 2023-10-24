@@ -41,5 +41,5 @@ void loop() {
   analogWrite(ledPinR,pwmValueR);
   analogWrite(ledPinG,pwmValueG);
   analogWrite(ledPinB,pwmValueB);
-  delay(1000);
+  delay(1);
 }
