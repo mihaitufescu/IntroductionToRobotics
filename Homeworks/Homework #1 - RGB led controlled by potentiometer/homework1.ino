@@ -29,8 +29,8 @@ void loop() {
 
   //Mapping the potentiometer values to the range of values of the led
   int pwmValueR = map(potMeterValR,0, 800, 0 , 255);
-  int pwmValueG = map(potMeterValM,0, 880, 0 , 255);
-  int pwmValueB = map(potMeterValL,0, 780, 0 , 255);
+  int pwmValueG = map(potMeterValG,0, 880, 0 , 255);
+  int pwmValueB = map(potMeterValB,0, 780, 0 , 255);
 
   //Printing the potentiometer values
   Serial.println("potR = " + String(potMeterValR));
