@@ -14,7 +14,7 @@ For this step you will need:
 -Jump wires
 First we connect each lead to its pin (I am using pins 11,10,9 and 6) through a resistor, connect its ground and then we check if all the LEDs are functioning.
 
-![Circuit implementation](/Screenshots%20and%20pictures/step1a.jpg)
+![Circuit implementation](https://github.com/mihaitufescu/IntroductionToRobotics/blob/main/Homeworks/Homework%20%232%20-%20Elevator%20simulator/Screenshots%20and%20pictures/step1a.jpg)
 
 Example code:
 ```
@@ -44,7 +44,7 @@ For this step you will need:
 -Jump wires
 First we connect each button to its pin (I am using pins 5,4,3), connect its ground and then we check if all the buttons are functioning using Serial.
 
-![Circuit implementation](/Screenshots%20and%20pictures/step1b.jpg)
+![Circuit implementation](https://github.com/mihaitufescu/IntroductionToRobotics/blob/main/Homeworks/Homework%20%232%20-%20Elevator%20simulator/Screenshots%20and%20pictures/step1b.jpg)
 
 Example code:
 
@@ -81,7 +81,7 @@ For this step you will need:
 - Jump wires
 Now, we'll test the buzzer by connecting it to port 2 and verifying its functionality.
 
-![Circuit implementation](/Screenshots%20and%20pictures/step1c.jpg)
+![Circuit implementation](https://github.com/mihaitufescu/IntroductionToRobotics/blob/main/Homeworks/Homework%20%232%20-%20Elevator%20simulator/Screenshots%20and%20pictures/step1c.jpg)
 
 Example code:
 
