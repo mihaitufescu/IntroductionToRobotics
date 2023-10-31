@@ -17,7 +17,7 @@ First we connect each lead to its pin (I am using pins 11,10,9 and 6) through a 
 ![Circuit implementation](/Screenshots%20and%20pictures/step1a.jpg)
 
 Example code:
-####
+```
 const int ledPins[] = {6, 9, 10, 11}; // Array to store the LED pin numbers
 
 void setup() {
@@ -35,7 +35,7 @@ void loop() {
     digitalWrite(ledPins[i], LOW);
   }
 }
-####
+```
 
 ### Step 1.b: Place each button and check its functionality
 
@@ -48,7 +48,7 @@ First we connect each button to its pin (I am using pins 5,4,3), connect its gro
 
 Example code:
 
-####
+```
 const int buttonPins[] = {5, 4, 3}; // Array to store the button pin numbers
 
 void setup() {
@@ -72,7 +72,7 @@ void loop() {
     }
   }
 }
-####
+```
 
 ### Step 1.c: Test the buzzer
 
@@ -85,7 +85,7 @@ Now, we'll test the buzzer by connecting it to port 2 and verifying its function
 
 Example code:
 
-#### 
+``` 
 const int buzzerPin = 2; 
 
 void setup() {
@@ -101,7 +101,7 @@ void loop() {
   delay(1000); // Add a pause between buzzer activations
 }
 
-####
+```
 
 ## Step 2: Identify main componenents of the code and initialize data
 
@@ -121,7 +121,7 @@ This code effectively integrates button control with elevator operation, creatin
 
 Code:
 
-#####
+```
 const int ledPins[] = {6, 9, 10, 11}; // array for the pins of the LEDs
 const int buttonPins[] = {3, 4, 5};    // array for the pins of the buttons
 
@@ -234,7 +234,7 @@ void loop() {
     }
   }
 }
-####
+```
 
 Watch the demo:
 https://youtube.com/shorts/GVlHzoqc8wQ
