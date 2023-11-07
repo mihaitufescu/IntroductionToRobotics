@@ -1,4 +1,4 @@
-#Homework #3 - 7 segment display drawing
+# Homework #3 - 7 segment display drawing
 
 ## Requirement:
 You will use the joystick to control the position of
