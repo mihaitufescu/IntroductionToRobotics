@@ -31,5 +31,10 @@ https://www.youtube.com/shorts/h66co6thW88
 
 ![Circuit implementation](https://github.com/mihaitufescu/IntroductionToRobotics/blob/main/Homeworks/Homework%20%232%20-%20Elevator%20simulator/Screenshots%20and%20pictures/step1c.jpg)
 
+### Homework #3 - 7 segment display drawing
+
+- **Task requirement**: Use the joystick to control the position ofthe segment and ”draw” on the display.  The movement between segments should be natural, meaning they should jump from the current positiononly to neighbors, but without passing through ”walls”.
+- **Description**: The project efficiently handles button clicks and debounce, ensuring that button presses are accurately detected. It distinguishes short clicks from long presses, resetting the display when a button is held for 3 seconds. The code separates the logic neatly, with clear segments for button handling and joystick input. It's efficient in managing LED states, enabling blinking animations at regular intervals. The joystick input determines segment changes, with smooth transitions. The code is well-structured, making it easy to understand and maintain, while effectively controlling an 8-segment display with a button and joystick for a satisfying user experience. [Check here for in-depth information](https://github.com/mihaitufescu/IntroductionToRobotics/blob/main/Homeworks/Homework%20%233%20-%207%20segment%20display%20drawing/implementation.md)
+
 Watch the demo:
-https://youtube.com/shorts/GVlHzoqc8wQ
+https://www.youtube.com/shorts/P6K85QJXZc8
