@@ -17,7 +17,7 @@ For this step you will need:
 -Jump wires
 First we connect each segment to its pin through a resistor and test its functionality.
 
-![[Circuit implementation](https://github.com/mihaitufescu/IntroductionToRobotics/blob/main/Homeworks/Homework%20%233%20-%207%20segment%20display%20drawing/Screenshots%20and%20pictures/circuit1.jpg)
+![Circuit implementation](https://github.com/mihaitufescu/IntroductionToRobotics/blob/main/Homeworks/Homework%20%233%20-%207%20segment%20display%20drawing/Screenshots%20and%20pictures/circuit1.jpg)
 
 Example code:
 ```
@@ -44,7 +44,7 @@ For this step you will need:
 -Jump wires
 First we connect the joystick. Note that since I am using interrupters for the button  I must use either digital pin 2 or 3.
 
-![[Circuit implementation](https://github.com/mihaitufescu/IntroductionToRobotics/blob/main/Homeworks/Homework%20%233%20-%207%20segment%20display%20drawing/Screenshots%20and%20pictures/circuit2.jpg)
+![Circuit implementation](https://github.com/mihaitufescu/IntroductionToRobotics/blob/main/Homeworks/Homework%20%233%20-%207%20segment%20display%20drawing/Screenshots%20and%20pictures/circuit2.jpg)
 
 Example code:
 
