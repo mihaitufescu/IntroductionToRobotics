@@ -16,7 +16,7 @@ For this step you will need:
 -Jump wires
 Connect the shift register to the Arduino Board. https://www.etechnog.com/2021/10/ic-7495-pin-diagram-internal-circuit.html
 
-![Circuit implementation](https://github.com/mihaitufescu/IntroductionToRobotics/blob/main/Homeworks/Homework%20%234%20-%20Stopwatch/Screenshots%20and%20pictures/step1.jpg){ width=50%, height = 50% }
+<img src="https://github.com/mihaitufescu/IntroductionToRobotics/blob/main/Homeworks/Homework%20%234%20-%20Stopwatch/Screenshots%20and%20pictures/step1.jpg" alt="Circuit implementation" width="50%" height="50%" />
 
 Example code:
 ```
@@ -33,7 +33,7 @@ For this step you will need:
 -Jump wires
 Connect the 4 digit 7 segment display to the Arduino board. Connect the 4 digit 7 segment display to the Arduino board.
 
-![Circuit implementation](https://github.com/mihaitufescu/IntroductionToRobotics/blob/main/Homeworks/Homework%20%234%20-%20Stopwatch/Screenshots%20and%20pictures/step2.jpg)
+<img src="https://github.com/mihaitufescu/IntroductionToRobotics/blob/main/Homeworks/Homework%20%234%20-%20Stopwatch/Screenshots%20and%20pictures/step2.jpg" alt="Circuit implementation" width="50%" height="50%" />
 
 Example code:
 
@@ -48,11 +48,11 @@ const int displayCount = 4;
 
 In this step, segment pins are connected to the 74HC595 output pins.
 
-![Circuit implementation](https://github.com/mihaitufescu/IntroductionToRobotics/blob/main/Homeworks/Homework%20%234%20-%20Stopwatch/Screenshots%20and%20pictures/step3.jpg)
+<img src="https://github.com/mihaitufescu/IntroductionToRobotics/blob/main/Homeworks/Homework%20%234%20-%20Stopwatch/Screenshots%20and%20pictures/step3.jpg" alt="Circuit implementation" width="50%" height="50%" />
 
 ### Step 1.c: Connect the buttons
 
-![Circuit implementation](https://github.com/mihaitufescu/IntroductionToRobotics/blob/main/Homeworks/Homework%20%234%20-%20Stopwatch/Screenshots%20and%20pictures/step4.jpg)
+<img src="https://github.com/mihaitufescu/IntroductionToRobotics/blob/main/Homeworks/Homework%20%234%20-%20Stopwatch/Screenshots%20and%20pictures/step4.jpg" alt="Circuit implementation" width="50%" height="50%" />
 
 Final setup:
 
@@ -77,7 +77,7 @@ void setup() {
   Serial.begin(9600);
 }
 ```
-![Circuit implementation](https://github.com/mihaitufescu/IntroductionToRobotics/blob/main/Homeworks/Homework%20%234%20-%20Stopwatch/Screenshots%20and%20pictures/step5.jpg)
+<img src="https://github.com/mihaitufescu/IntroductionToRobotics/blob/main/Homeworks/Homework%20%234%20-%20Stopwatch/Screenshots%20and%20pictures/step5.jpg" alt="Circuit implementation" width="50%" height="50%" />
 
 ## Step 2: Structure of the code and data initialization
 
