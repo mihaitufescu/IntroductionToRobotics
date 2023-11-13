@@ -16,7 +16,7 @@ For this step you will need:
 -Jump wires
 Connect the shift register to the Arduino Board. https://www.etechnog.com/2021/10/ic-7495-pin-diagram-internal-circuit.html
 
-![Circuit implementation](https://github.com/mihaitufescu/IntroductionToRobotics/blob/main/Homeworks/Homework%20%234%20-%20Stopwatch/Screenshots%20and%20pictures/step1.jpg){ width=50% }
+![Circuit implementation](https://github.com/mihaitufescu/IntroductionToRobotics/blob/main/Homeworks/Homework%20%234%20-%20Stopwatch/Screenshots%20and%20pictures/step1.jpg){ width=50% }{ height=50% }
 
 Example code:
 ```
