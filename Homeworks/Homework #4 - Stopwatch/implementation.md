@@ -16,7 +16,7 @@ For this step you will need:
 -Jump wires
 Connect the shift register to the Arduino Board. https://www.etechnog.com/2021/10/ic-7495-pin-diagram-internal-circuit.html
 
-![Circuit implementation](/Screenshots%20and%20pictures/circuit1.jpg)
+![Circuit implementation](https://github.com/mihaitufescu/IntroductionToRobotics/blob/main/Homeworks/Homework%20%234%20-%20Stopwatch/Screenshots%20and%20pictures/step1.jpg =500x500)
 
 Example code:
 ```
@@ -33,7 +33,7 @@ For this step you will need:
 -Jump wires
 Connect the 4 digit 7 segment display to the Arduino board. Connect the 4 digit 7 segment display to the Arduino board.
 
-![Circuit implementation](/Screenshots%20and%20pictures/circuit2.jpg)
+![Circuit implementation](https://github.com/mihaitufescu/IntroductionToRobotics/blob/main/Homeworks/Homework%20%234%20-%20Stopwatch/Screenshots%20and%20pictures/step2.jpg =500x500)
 
 Example code:
 
@@ -48,7 +48,7 @@ const int displayCount = 4;
 
 In this step, segment pins are connected to the 74HC595 output pins.
 
-![Circuit implementation](/Screenshots%20and%20pictures/circuit2.jpg)
+![Circuit implementation](https://github.com/mihaitufescu/IntroductionToRobotics/blob/main/Homeworks/Homework%20%234%20-%20Stopwatch/Screenshots%20and%20pictures/step3.jpg =500x500)
 
 Final setup:
 
@@ -73,6 +73,8 @@ void setup() {
   Serial.begin(9600);
 }
 ```
+![Circuit implementation](https://github.com/mihaitufescu/IntroductionToRobotics/blob/main/Homeworks/Homework%20%234%20-%20Stopwatch/Screenshots%20and%20pictures/step5.jpg =500x500)
+
 ## Step 2: Structure of the code and data initialization
 
 This code is structured into several methods and data structures for avoiding code redudancy and performance:
@@ -338,6 +340,6 @@ void writeNumber(int number) {
     initDisplay(displayDigit); // this is used to activate displays unused by the current number
   }
 }
-
+```
 Demo :
 https://youtu.be/0sVqS57-NV4
