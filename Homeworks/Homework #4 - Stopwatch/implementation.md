@@ -1,4 +1,4 @@
-#Homework #4 - Stopwatch
+# Homework #4 - Stopwatch
 
 ## Requirement:
 Using the 4 digit 7 segment display and 3 buttons,
