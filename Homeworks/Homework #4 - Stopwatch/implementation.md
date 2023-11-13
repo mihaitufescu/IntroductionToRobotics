@@ -50,7 +50,7 @@ In this step, segment pins are connected to the 74HC595 output pins.
 
 <img src="https://github.com/mihaitufescu/IntroductionToRobotics/blob/main/Homeworks/Homework%20%234%20-%20Stopwatch/Screenshots%20and%20pictures/step3.jpg" alt="Circuit implementation" width="50%" height="50%" />
 
-### Step 1.c: Connect the buttons
+### Step 1.d: Connect the buttons
 
 <img src="https://github.com/mihaitufescu/IntroductionToRobotics/blob/main/Homeworks/Homework%20%234%20-%20Stopwatch/Screenshots%20and%20pictures/step4.jpg" alt="Circuit implementation" width="50%" height="50%" />
 
