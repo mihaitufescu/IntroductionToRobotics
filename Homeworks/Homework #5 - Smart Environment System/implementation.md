@@ -13,7 +13,7 @@ For this step you will need:
 -RGB LED
 -Resistors as needed•Breadboard and connecting wires
 
-![Circuit implementation](/Screenshots%20and%20pictures/circuit.jpg)
+<img src="https://github.com/mihaitufescu/IntroductionToRobotics/blob/main/Homeworks/Homework%20%235%20-%20Smart%20Environment%20System/Screenshots%20and%20pictures/circuit.jpg" alt="Circuit implementation" width="50%" height="50%" />
 
 Example code:
 
