@@ -34,3 +34,11 @@ https://www.youtube.com/shorts/h66co6thW88
 
 Watch the demo:
 https://www.youtube.com/shorts/P6K85QJXZc8
+
+### Homework #4 - Stopwatch
+
+- **Task requirement**: Using the 4 digit 7 segment display and 3 buttons, you should implement a stopwatch timer that counts in 10ths of a second and has a save lap functionality (similar to most basic stopwatch functions on most phones).
+- **Description**: The project is a countdown timer with 4-digit 7-segment displays and buttons control. It employs a debouncing mechanism for start/stop, reset, and lap buttons. The LapStack class maintains lap times in a circular stack, allowing for continuous storage of the latest lap times. The program also handles display initialization, activation, and writing numbers to the displays. The start/stop button toggles countdown activation, and the reset button clears the count unless the timer is running. The flag button records lap times. The code ensures stable button readings and seamless display of countdown and lap data. [Check here for in-depth information](https://github.com/mihaitufescu/IntroductionToRobotics/blob/main/Homeworks/Homework%20%234%20-%20Stopwatch/implementation.md)
+
+Watch the demo:
+https://youtu.be/0sVqS57-NV4
