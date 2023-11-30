@@ -9,12 +9,12 @@ This implementation involves three steps. You can find the steps here:
 
 ## Step 1: Test each physical componenent's functionality
 For this step you will need:
--Arduino Uno Board
--8x8 Matrix
--MAX7219 Driver
--Resistors as needed
--Breadboard
--Jump wires
+- Arduino Uno Board
+- 8x8 Matrix
+- MAX7219 Driver
+- Resistors as needed
+- Breadboard
+- Jump wires
 
 <img src="https://github.com/mihaitufescu/IntroductionToRobotics/blob/main/Homeworks/Homework%20%236%20-%20Mini%20Matrix%20Game/Screenshots%20and%20pictures/circuit.jpg" alt="Circuit implementation" width="50%" height="50%" />
 
