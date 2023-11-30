@@ -68,7 +68,7 @@ This code is structured into several methods and data structures for avoiding co
 
 ## Step 3: Finalizing the code
 
-The Arduino code establishes a menu-driven system via Serial Monitor. It enables users to configure ultrasonic and LDR sensor thresholds, control RGB LEDs, and view system status. The system logs sensor data in EEPROM, triggering LED alerts based on threshold conditions. Functions handle sensor readings, EEPROM data clearing, and data display. The program continuously loops, responding to user inputs and updating sensor states. Overall, it integrates sensors, user interface, and LED control, providing a versatile monitoring and control system for environmental conditions. Note: Some code sections are marked "to be continued," suggesting potential future enhancements.
+The Arduino code establishes a menu-driven system via Serial Monitor. It enables users to configure ultrasonic and LDR sensor thresholds, control RGB LEDs, and view system status. The system logs sensor data in EEPROM, triggering LED alerts based on threshold conditions. Functions handle sensor readings, EEPROM data clearing, and data display. The program continuously loops, responding to user inputs and updating sensor states. Overall, it integrates sensors, user interface, and LED control, providing a versatile monitoring and control system for environmental conditions.
 
 Code:
 
