@@ -7,11 +7,11 @@ This implementation involves two steps. You can find the steps here:
 
 ## Step 1: Test each physical componenent's functionality
 For this step you will need:
--Arduino Uno Board
--Ultrasonic Sensor (HC-SR04)
--LDR (Light-Dependent Resistor) aka Photocell aka Photoresistor aka LightSensor
--RGB LED
--Resistors as needed•Breadboard and connecting wires
+- Arduino Uno Board
+- Ultrasonic Sensor (HC-SR04)
+- LDR (Light-Dependent Resistor) aka Photocell aka Photoresistor aka LightSensor
+- RGB LED
+- Resistors as needed•Breadboard and connecting wires
 
 <img src="https://github.com/mihaitufescu/IntroductionToRobotics/blob/main/Homeworks/Homework%20%235%20-%20Smart%20Environment%20System/Screenshots%20and%20pictures/circuit.jpg" alt="Circuit implementation" width="50%" height="50%" />
 
