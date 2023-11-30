@@ -1,4 +1,4 @@
-#Homework #6 - Mini Matrix Game
+# Homework #6 - Mini Matrix Game
 
 ## Requirement:
 Develop a small game on the 8x8 matrix. The game must have at least 3 types
