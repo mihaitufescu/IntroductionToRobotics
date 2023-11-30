@@ -5,7 +5,7 @@ Develop a small game on the 8x8 matrix. The game must have at least 3 types
 of elements: player (blinks slowly), bombs/bullets (blinks fast), wall (doesn’t
 blink). The game chosen in this case is Bomberman.
 
-This implementation involves two steps. You can find the steps here:
+This implementation involves three steps. You can find the steps here:
 
 ## Step 1: Test each physical componenent's functionality
 For this step you will need:
