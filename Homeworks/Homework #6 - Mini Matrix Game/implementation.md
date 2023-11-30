@@ -16,7 +16,7 @@ For this step you will need:
 -Breadboard
 -Jump wires
 
-![Circuit implementation](/Screenshots%20and%20pictures/circuit.jpg)
+<img src="https://github.com/mihaitufescu/IntroductionToRobotics/blob/main/Homeworks/Homework%20%236%20-%20Mini%20Matrix%20Game/Screenshots%20and%20pictures/circuit.jpg" alt="Circuit implementation" width="50%" height="50%" />
 
 Example code:
 
